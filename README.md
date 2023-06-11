@@ -69,3 +69,14 @@ This should be a great opportunity for the Category Manager to increase Kettle a
 
 
 
+# Main Goal for Task 2
+The client has selected store numbers 77, 86 and 88 as trial stores and want 
+control stores to be established stores that are operational for the entire 
+observation period.
+We would want to match trial stores to control stores that are similar to the trial
+store prior to the trial period of Feb 2019 in terms of :
+- Monthly overall sales revenue
+- Monthly number of customers
+- Monthly number of transactions per customer
+
+
